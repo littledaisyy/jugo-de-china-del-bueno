@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(188, 220, 251);
+}
+
+.text-center{
+    color: rgb(39, 39, 179);
+}
+
+.form-text{
+    color: rgb(226, 137, 27);
+    font-size: 1rem;
+}
+
+.btn{
+    background-color:rgba(56, 56, 189, 0.963); 
+    color: white;
+}
